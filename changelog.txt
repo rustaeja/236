@@ -98,6 +98,7 @@ Version 1.1 - Codename: They Might Be Giants
 - Bug: 1047683 - method Post.getDateAsTime() displays wrong timezone
        https://sourceforge.net/tracker/index.php?func=detail&aid=1047683&group_id=121225&atid=689673
 
-Version 1.0 - Codename: Joy Division
+Version 1.7 - Codename: rustaeja 
+www.vk.com/rustaeja
 ------------------------------------
 Initial release
