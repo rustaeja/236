@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2004-2007, David A. Czarnecki
+ * Copyright (c) 2004-2007, Denisenko A. Rustaeja
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -178,7 +178,6 @@ public class DeliciousUtils {
         encodedInput = input.replaceAll("\\?", "%3F");
         encodedInput = input.replaceAll("&", "%26");
         encodedInput = input.replaceAll("#", "%23");
-
         return encodedInput;
     }
 }
